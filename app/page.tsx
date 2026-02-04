@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-white">
       <div className="text-center border border-[#d1d5db] rounded-lg p-12 max-w-md">
-        <h1 className="text-3xl font-bold text-black mb-4">JobFeed</h1>
+        <h1 className="text-3xl font-bold text-black mb-4">JobBuddyAi</h1>
         <p className="text-gray-600 mb-8">
           Your job search companion. Find opportunities that match your skills.
         </p>
